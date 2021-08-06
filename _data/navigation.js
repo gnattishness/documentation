@@ -239,6 +239,16 @@ module.exports = {
             title: 'Make an Existing Job Request',
             url: '/docs/existing-job-request/',
           },
+          ,
+          {
+            title: 'Large Responses',
+            url: '/docs/large-responses/',
+          },
+          ,
+          {
+            title: 'Multi-Variable Responses',
+            url: '/docs/multi-variable-responses/',
+          },
           { title: 'Find Existing Jobs', url: '/docs/listing-services/' },
           { title: 'API Reference', url: '/docs/chainlink-framework/' },
           {
